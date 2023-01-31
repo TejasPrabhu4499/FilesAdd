@@ -20,3 +20,6 @@
 2023-01-30 16:35:45,791 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Tejas Prabhu\git\Github-Tut\.git]
 2023-01-30 16:36:44,304 [Worker-0: Cloning from https://github.com/TejasPrabhu4499/GitHubEclipse.git] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Tejas Prabhu\git\repository\.git]
 2023-01-30 16:40:46,268 [Worker-22: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Tejas Prabhu\git\GitHubEclipse\.git]
+2023-01-30 18:40:34,567 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 13:45:14,259 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 15:44:47,795 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
