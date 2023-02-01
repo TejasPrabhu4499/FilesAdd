@@ -8,7 +8,7 @@ public class RectangleTest {
 		Rectangle rectangle = new Rectangle(20, 40);
 		printRectangleDetails(rectangle);
 
-		Rectangle rectangle2 = new Rectangle(40, 70);
+		Rectangle rectangle2 = new Rectangle(40, 70,Color.red);
 		printRectangleDetails(rectangle2);
 
 	}
@@ -16,6 +16,7 @@ public class RectangleTest {
 	private static void printRectangleDetails(Rectangle rectangle) {
 		System.out.println("Height :" + rectangle.getHeight());
 		System.out.println("Width :" + rectangle.getWidth());
+		System.out.println("Color :"+rectangle.getcolor());
 	}
 
 }

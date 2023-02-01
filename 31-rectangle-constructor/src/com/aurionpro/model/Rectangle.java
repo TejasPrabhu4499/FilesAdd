@@ -4,17 +4,28 @@ public class Rectangle {
 
 	private int height;
 	private int width;
+	private Color color;
 
-	public Rectangle(int width, int height) {
+	public Rectangle(int width, int height,Color color) {
 		this.width = width;
 		this.height = height;
+		this.color=color;
 	}
 
+	public Rectangle(int width,int height) {
+		this.width = 10;
+		this.height = 20;
+		this.color=color.green;
+	}
 	public Rectangle() {
-		width = 10;
-		height = 20;
+		this.width=10;
+		this.height=20;
+		color=Color.green;
 	}
-
+    public Color getcolor()
+    {
+    return color;
+    }
 	public void setWidth(int width) {
 		this.width = width;
 	}
