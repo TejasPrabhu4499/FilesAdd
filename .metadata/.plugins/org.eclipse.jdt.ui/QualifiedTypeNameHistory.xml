@@ -6,6 +6,7 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.aurionpro.gettersetter.Rectangle"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Color"/>
-    <fullyQualifiedTypeName name="com.aurionpro.model.Account"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Player"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Account"/>
 </qualifiedTypeNameHistroy>
