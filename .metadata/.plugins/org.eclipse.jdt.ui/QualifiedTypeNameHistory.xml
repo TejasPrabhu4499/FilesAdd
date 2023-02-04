@@ -3,10 +3,18 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Circle"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.aurionpro.gettersetter.Rectangle"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Color"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Player"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Account"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="com.auriopro.test.FileWriter"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Parent"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.ChildA"/>
+    <fullyQualifiedTypeName name="com.aurinpro.model.Boy"/>
+    <fullyQualifiedTypeName name="com.aurinpro.model.Kid"/>
+    <fullyQualifiedTypeName name="com.aurinpro.model.Man"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
